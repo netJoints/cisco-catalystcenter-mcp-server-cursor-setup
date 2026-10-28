@@ -2,11 +2,11 @@
 
 Connect **Cursor on the same Mac** to a local [Cisco Catalyst Center MCP server](https://github.com/cisco-en-programmability/catc-mcp-oss). The server stays on loopback. Catalyst Center credentials stay in the server process, not in Git and not in this repository.
 
-**GitHub Pages:** https://netjoints.github.io/cisco-catalystcenter-mcp-server-cursor-setup/
+**This repository:** https://github.com/netJoints/cisco-catalystcenter-mcp-server-cursor-setup · [site](https://netjoints.github.io/cisco-catalystcenter-mcp-server-cursor-setup/)
 
-**Codex and ChatGPT setup (sister guide):** https://netjoints.github.io/cisco-catalystcenter-mcp-server-codex-setup/
+**Server install:** https://github.com/netJoints/cisco-catc-mcp-server-deployment-guide · [site](https://netjoints.github.io/cisco-catc-mcp-server-deployment-guide/)
 
-**Server install:** https://netjoints.github.io/cisco-catc-mcp-server-deployment-guide/
+**Codex and ChatGPT setup:** https://github.com/netJoints/cisco-catalystcenter-mcp-server-codex-setup · [site](https://netjoints.github.io/cisco-catalystcenter-mcp-server-codex-setup/)
 
 ## What you need
 
@@ -134,7 +134,6 @@ Compliance remediation is a write. It can change configuration and may flap a de
 - [Switching skill (SKILL.md)](https://github.com/jeremycohoe/catc-mcp-oss/blob/main/examples/skill/switching/SKILL.md)
 - [Switching playbook](https://github.com/jeremycohoe/catc-mcp-oss/blob/main/examples/skill/switching/references/playbook.md)
 - [Cisco Catalyst Center MCP server](https://github.com/cisco-en-programmability/catc-mcp-oss)
-- [Podman deployment guide](https://github.com/netJoints/cisco-catc-mcp-server-deployment-guide)
-- [Deployment guide site](https://netjoints.github.io/cisco-catc-mcp-server-deployment-guide/)
-- [Codex and ChatGPT setup](https://github.com/netJoints/cisco-catalystcenter-mcp-server-codex-setup)
+- [Podman deployment guide](https://github.com/netJoints/cisco-catc-mcp-server-deployment-guide) · [site](https://netjoints.github.io/cisco-catc-mcp-server-deployment-guide/)
+- [Codex and ChatGPT setup](https://github.com/netJoints/cisco-catalystcenter-mcp-server-codex-setup) · [site](https://netjoints.github.io/cisco-catalystcenter-mcp-server-codex-setup/)
 - [Cursor MCP documentation](https://cursor.com/docs/mcp)
